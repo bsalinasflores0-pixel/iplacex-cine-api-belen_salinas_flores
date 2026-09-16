@@ -1,1 +1,1 @@
-# iplacex-cine-api-belen_salinas_flores
+API REST Express para administración de películas favoritas de empleados de IPLACEX
